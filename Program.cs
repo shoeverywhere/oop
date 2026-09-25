@@ -6,7 +6,7 @@ using System;
     {
         static void Main(string[] args)
         {
-            // Scenario 1: Golden Retriever
+            
             Dog myDog = new Dog
             {
                 Name = "Erick",
@@ -22,7 +22,6 @@ using System;
 
             Console.WriteLine();
 
-            // Scenario 2: Burmese Cat
             Cat myCat = new Cat
             {
                 Name = "Kitty",
